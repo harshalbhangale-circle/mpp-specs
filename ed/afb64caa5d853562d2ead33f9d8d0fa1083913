@@ -1,0 +1,21 @@
+specs/methods/usdc/draft-usdc-charge-00.md
+  s_0f82dfd336a3ac::t_c3f73e9f31bf47 963-965
+  s_0f82dfd336a3ac::t_a73fce168191d6 1097,1153,1167,1228,1239,1360
+  s_0f82dfd336a3ac::t_21fe1e7506d8bc 100-103,138,189-192,269,272-288,344-353,357-364,378,384,390-398,478,480,483-491,532-536,545,547,549,556-557,562-569,577,611-613,677-678,693-699,706-708,710,717-719,731-733,760,762,852,871,899-905,912-915,925,927,935-937,954-962,966-967,1078,1150
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "edafb64caa5d853562d2ead33f9d8d0fa1083913",
+  "prompts": {},
+  "sessions": {
+    "s_0f82dfd336a3ac": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019df97d-a7d2-7fd2-bab6-a421a03aa823",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Harshal Bhangale <harshal.bhangale@circle.com>"
+    }
+  }
+}
